@@ -7,7 +7,7 @@ Group 2:
 - Kho, John Zechariah S.
 - Taino, Ryan Nicholas A.
 
-Entry Class File: main.cpp
+Entry Class File: main.cpp (Located in MCO2_Corrected Folder)
 
 How to Run Program
 
