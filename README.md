@@ -1,10 +1,11 @@
 # MO2-MultitaskingOS
 
 Group 2:
-Apa, Giusippi Maria II
-Geralde, Klyde Audre Guiguitin
-Kho, John Zechariah S.
-Taino, Ryan Nicholas A.
+
+- Apa, Giusippi Maria II
+- Geralde, Klyde Audre Guiguitin
+- Kho, John Zechariah S.
+- Taino, Ryan Nicholas A.
 
 Entry Class File: main.cpp
 
