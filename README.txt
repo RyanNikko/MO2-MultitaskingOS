@@ -4,7 +4,9 @@ Geralde, Klyde Audre Guiguitin
 Kho, John Zechariah S.
 Taino, Ryan Nicholas A.
 
-Entry Class File: main.cpp
+Entry Class File: main.cpp (Located in MCO2_Corrected)
+
+*There is an issue with viewing the MO2 folder, kindly use MCO2_Corrected, source code has no changes between them*
 
 How to Run Program
 1.) Click Run/Debug on IDE
