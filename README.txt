@@ -1,12 +1,10 @@
 Group 2:
 Apa, Giusippi Maria II
-Geralde, Klyde Audre Guiguitin
+Geralde, Klyde Audre G.
 Kho, John Zechariah S.
 Taino, Ryan Nicholas A.
 
-Entry Class File: main.cpp (Located in MCO2_Corrected)
-
-*There is an issue with viewing the MO2 folder, kindly use MCO2_Corrected, source code has no changes between them*
+Entry Class File: main.cpp (Located in MCO2_Corrected Directory)
 
 How to Run Program
 1.) Click Run/Debug on IDE
